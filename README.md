@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет! Я Павел 🚀
 
-<!--
-**bvxxvd/bvxxvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **QA Automation Engineer** | **Java, Playwright, Selenide**
+🎯 **Опыт:** 6+ лет в тестировании и автоматизации
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 **Стек технологий**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2C2C2C?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenide](https://img.shields.io/badge/Selenide-43A047?style=for-the-badge&logo=selenide&logoColor=white)
+
+---
+
+
+
+### 📫 **Как связаться со мной?**
+- 📧 **Email:** [bvxxvd@example.com](mailto:bvxxvd@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/bvxxvd](https://linkedin.com/in/bvxxvd)
