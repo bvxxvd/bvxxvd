@@ -15,5 +15,5 @@
 
 
 ### 📫 **Как связаться со мной?**
-- 📧 **Email:** [bvxxvd@example.com](mailto:bvxxvd@gmail.com)
+- 📧 **Email:** [bvxxvd@gmail.com](mailto:bvxxvd@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/bvxxvd](https://linkedin.com/in/bvxxvd)
